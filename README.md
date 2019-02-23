@@ -43,4 +43,3 @@ Mer 27 Feb | Introduzione | [slides] |
 | | |
 Gio 28 Feb |  |  | 
 | | |
-| **Fine del corso** | |
