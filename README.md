@@ -1,4 +1,4 @@
-## Fundamentals of Computer Graphics
+## Computer Graphics
 
 Course material
 
