@@ -32,16 +32,15 @@ Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unic
 
 ### Esame
 
-The **final project** will be discussed in an oral examination, and may fall into one of these categories:
+L'esame consiste in una prova in itinere e da una prova finale; entrambe le prove sono scritte. Ulteriori dettagli verranno definiti e comunicati durante il corso.
 
-- In-depth survey of a topic related to the syllabus
-- Coding assignment plus report
-
-### Lectures
+### Lezioni
 
 **Data** | **Argomento** | **Materiale** | **Codice e dati**
 ------------ | ------------- | ------------ | ------------
 | | |
 Mer 27 Feb | Introduzione | [slides] | 
+| | |
+Gio 28 Feb |  |  | 
 | | |
 | **Fine del corso** | |
