@@ -24,20 +24,13 @@ Fondamenti di programmazione; non è richiesta la conoscenza di un linguaggio sp
 
 ### Syllabus
 
-The course will cover topics of 3D shape representation, analysis, processing, matching, and modeling. An emphasis will be put on discrete geometry processing algorithms with applications in computer vision and graphics. Shape rendering and visualization will also be touched upon. The course will start from scratch by reviewing the key mathematical concepts and will proceed step by step up to the most recent advances in the area. Invited lectures from prominent scientists in the field are also expected.
+Il corso copre argomenti di elaborazione di immagini e modellazione 3D, con cenni a tecniche di visualizzazione e di rendering. Gli argomenti del corso verranno introdotti da zero partendo dai concetti matematici di base fino ad argomenti più avanzati, inclusi risultati recenti pubblicati in conferenze di Computer Graphics. Sono previsti interventi e seminari da parte di esperti del settore. Il corso viene sviluppato in parallelo sia dal punto di vista teorico che pratico, con frequenti sessioni di programmazione live in aula.
 
-### Text book and reading material
+### Libri di testo e materiale
 
-The lectures are not based on any text book in particular. Reading material suggested throughout the lectures is listed here:
+Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unico. Il materiale specifico verrà fornito e indicato durante le lezioni e riportato di seguito.
 
-- [A15] Axler, "Linear algebra done right - 3rd edition". Springer, 2015.
-- [BBI01] Burago, Burago, Ivanov, "A course in metric geometry". AMS, 2001.
-- [POV] [POV-Ray reference](http://www.povray.org/documentation/3.7.0/r3_0.html)
-- [dC76] Do Carmo, "Differential geometry of curves and surfaces". Prentice-Hall, 1976.
-
-### Grading
-
-Grades for the midterm evaluation are available [here](https://github.com/erodola/FundCG-s1-2018/raw/master/midterm.pdf).
+### Esame
 
 The **final project** will be discussed in an oral examination, and may fall into one of these categories:
 
@@ -46,11 +39,9 @@ The **final project** will be discussed in an oral examination, and may fall int
 
 ### Lectures
 
-**Date** | **Topic** | **Reading** | **Code & Data**
+**Data** | **Argomento** | **Materiale** | **Codice e dati**
 ------------ | ------------- | ------------ | ------------
 | | |
-Mon 24 Sep | Introduction; Shape representation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/01-intro.pdf) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off) ; [load_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/load_off.m) ; [save_as_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/save_as_off.m) ; [calc_tri_areas.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_tri_areas.m) ; [calc_boundary_edges.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_boundary_edges.m)
+Mer 27 Feb | Introduzione | [slides] | 
 | | |
-Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) | [fps_euclidean.m](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/code/fps_euclidean.m) ; [voronoi_euclidean.m](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/code/voronoi_euclidean.m)
-| | |
-| **End** | |
+| **Fine del corso** | |
