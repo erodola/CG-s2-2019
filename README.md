@@ -1,6 +1,6 @@
 ## Computer Graphics
 
-Material del corso
+Materiale del corso
 
 ### News
 
@@ -12,15 +12,15 @@ Material del corso
 
 **Assistente:** Dr. Arianna Rampini
 
-**Quando:** Mondays 14:00-16:30 and Thursdays 08:00-10:30 (see the [official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
+**Quando:** Mercoledì 10:30-13:00 e Giovedì 10:30-13:00 ([orario ufficiale](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni))
 
-**Dove:** Aula Alfa - Sociologia, via Salaria 113
+**Dove:** Aula 1 - Aule L di Ingegneria, via del Castro Laurenziano 7a
 
 **Ricevimento:** Per appuntamento scrivendo un'email a _cognome_senza_accento@di.uniroma1.it_
 
 ### Pre-requisiti
 
-Fundamentals of **programming is a must-have**, since there are coding assignments; there is no mandatory language, although lecture material will prefer **Matlab**. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
+Fondamenti di programmazione; non è richiesta la conoscenza di un linguaggio specifico, ma a lezione verranno mostrati esempi in  **Matlab**. Basi di calcolo ed algebra lineare sono anche utili, ma gli strumenti principali verranno comunque rivisti in lezioni specifiche.
 
 ### Syllabus
 
