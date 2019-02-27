@@ -39,7 +39,11 @@ L'esame consiste in una prova in itinere e da una prova finale; entrambe le prov
 **Data** | **Argomento** | **Materiale** | **Codice e dati**
 ------------ | ------------- | ------------ | ------------
 | | |
-Mer 27 Feb | Introduzione | [slides] | 
+Mer 27 Feb | Introduction | [slides](https://github.com/erodola/CG-s2-2019/raw/master/01_intro/01-intro.pdf) | 
 | | |
-Gio 28 Feb |  |  | 
+Gio 28 Feb | Shape and image representation | [slides] | 
+| | |
+Mer 06 Mar | | [slides] | 
+| | |
+Gio 07 Mar | | [slides] | 
 | | |
