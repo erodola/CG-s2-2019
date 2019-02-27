@@ -41,7 +41,7 @@ L'esame consiste in una prova in itinere e da una prova finale; entrambe le prov
 | | |
 Mer 27 Feb | Introduction | [slides](https://github.com/erodola/CG-s2-2019/raw/master/01_intro/01-intro.pdf) | 
 | | |
-Gio 28 Feb | Shape and image representation | [slides] | 
+Gio 28 Feb | Shape and image representation | [slides] | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off) ; [load_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/load_off.m)
 | | |
 Mer 06 Mar | | [slides] | 
 | | |
