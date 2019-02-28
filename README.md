@@ -10,8 +10,6 @@ Materiale del corso
 
 **Docente:** Prof. Emanuele Rodolà
 
-**Assistente:** Dr. Arianna Rampini
-
 **Quando:** Mercoledì 10:30-13:00 e Giovedì 10:30-13:00 ([orario ufficiale](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni))
 
 **Dove:** Aula 1 - Aule L di Ingegneria, via del Castro Laurenziano 7a
