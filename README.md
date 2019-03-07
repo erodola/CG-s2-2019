@@ -43,5 +43,5 @@ Gio 28 Feb | Shape and image representation | [slides](https://github.com/erodol
 | | |
 Mer 06 Mar | Linear algebra I | [slides](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/03-linalg.pdf) | [lena.png](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/lena.png) |
 | | |
-Gio 07 Mar | Linear algebra II | [slides] | 
+Gio 07 Mar | Linear algebra II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/04_linalg2/04-linalg2.pdf) | 
 | | |
