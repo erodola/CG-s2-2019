@@ -41,7 +41,7 @@ Mer 27 Feb | Introduction | [slides](https://github.com/erodola/CG-s2-2019/raw/m
 | | |
 Gio 28 Feb | Shape and image representation | [slides](https://github.com/erodola/CG-s2-2019/raw/master/02_repr/02-repr.pdf) | [cat0.off](https://github.com/erodola/CG-s2-2019/raw/master/02_repr/code/cat0.off) ; [load_off.m](https://github.com/erodola/CG-s2-2019/raw/master/02_repr/code/load_off.m)
 | | |
-Mer 06 Mar | Linear algebra I | [slides](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/03-linalg.pdf) | [lena.png](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/lena.png)
+Mer 06 Mar | Linear algebra I | [slides](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/03-linalg.pdf) | [lena.png](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/lena.png) ; [demo.m](https://github.com/erodola/CG-s2-2019/raw/master/03_linalg/demo.m)
 | | |
 Gio 07 Mar | Linear algebra II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/04_linalg2/04-linalg2.pdf) | [baboon.png](https://github.com/erodola/CG-s2-2019/raw/master/04_linalg2/baboon.png)
 | | |
