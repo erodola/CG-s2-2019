@@ -45,5 +45,6 @@ Mer 06 Mar | Linear algebra I | [slides](https://github.com/erodola/CG-s2-2019/r
 | | |
 Gio 07 Mar | Linear algebra II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/04_linalg2/04-linalg2.pdf) | [baboon.png](https://github.com/erodola/CG-s2-2019/raw/master/04_linalg2/baboon.png)
 | | |
-Mer 13 Mar | | |
+Mer 13 Mar | Visualization I | [slides] |
 | | |
+Gio 14 Mar | | |
