@@ -4,7 +4,7 @@ Materiale del corso
 
 ### News
 
-- **23/02/2019:** Il sito del corso è online!
+- **14/03/2019:** La **prova in itinere** si terrà Giovedì 11 Aprile (orario e aula della lezione).
 
 ### Logistics
 
@@ -26,7 +26,7 @@ Il corso copre argomenti di elaborazione di immagini e modellazione 3D, con cenn
 
 ### Libri di testo e materiale
 
-Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unico. Il materiale specifico verrà fornito e indicato durante le lezioni e riportato di seguito.
+Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unico. Il materiale specifico verrà fornito e indicato durante le lezioni.
 
 ### Esame
 
