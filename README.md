@@ -49,7 +49,7 @@ Mer 13 Mar | Visualization I | [slides](https://github.com/erodola/CG-s2-2019/ra
 | | |
 Gio 14 Mar | **Industry Seminar: Matteo Sala** | | [TOSCA dataset](http://tosca.cs.technion.ac.il/data/toscahires-mat.zip) ; [FAUST dataset](http://faust.is.tue.mpg.de/) ; [The VES Handbook of Visual Effects](http://www.varmstudio.com/stuff/miisu/VES.pdf)
 | | |
-Mer 20 Mar | | |
+Mer 20 Mar | Proximity | [slides] |
 | | |
 Gio 21 Mar | | |
 | | |
