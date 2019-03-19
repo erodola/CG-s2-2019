@@ -49,7 +49,7 @@ Mer 13 Mar | Visualization I | [slides](https://github.com/erodola/CG-s2-2019/ra
 | | |
 Gio 14 Mar | **Industry Seminar: Matteo Sala** | | [TOSCA dataset](http://tosca.cs.technion.ac.il/data/toscahires-mat.zip) ; [FAUST dataset](http://faust.is.tue.mpg.de/) ; [The VES Handbook of Visual Effects](http://www.varmstudio.com/stuff/miisu/VES.pdf) ; [alien.off](https://github.com/erodola/CG-s2-2019/raw/master/alien.zip)
 | | |
-Mer 20 Mar | Proximity | [slides](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/06-prox.pdf) | [ralph.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/ralph.png) ; [p5.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/p5.png) ; [p5_projected.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/p5_projected.png)
+Mer 20 Mar | Proximity | [slides](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/06-prox.pdf) | [ralph.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/ralph.png) ; [p5.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/p5.png) ; [p5_projected.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/p5_projected.png)
 | | |
-Gio 21 Mar | | |
+Gio 21 Mar | Metric spaces | [slides] |
 | | |
