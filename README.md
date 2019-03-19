@@ -47,7 +47,7 @@ Gio 07 Mar | Linear algebra II | [slides](https://github.com/erodola/CG-s2-2019/
 | | |
 Mer 13 Mar | Visualization I | [slides](https://github.com/erodola/CG-s2-2019/raw/master/05_viz/05-viz.pdf) | [tr_reg_000.off](https://github.com/erodola/CG-s2-2019/raw/master/05_viz/code/tr_reg_000.off) ; [demo.m](https://github.com/erodola/CG-s2-2019/raw/master/05_viz/code/demo.m) ; [spdiag.m](https://github.com/erodola/CG-s2-2019/raw/master/05_viz/code/spdiag.m)
 | | |
-Gio 14 Mar | **Industry Seminar: Matteo Sala** | | [TOSCA dataset](http://tosca.cs.technion.ac.il/data/toscahires-mat.zip) ; [FAUST dataset](http://faust.is.tue.mpg.de/) ; [The VES Handbook of Visual Effects](http://www.varmstudio.com/stuff/miisu/VES.pdf)
+Gio 14 Mar | **Industry Seminar: Matteo Sala** | | [TOSCA dataset](http://tosca.cs.technion.ac.il/data/toscahires-mat.zip) ; [FAUST dataset](http://faust.is.tue.mpg.de/) ; [The VES Handbook of Visual Effects](http://www.varmstudio.com/stuff/miisu/VES.pdf) ; [alien.off](https://github.com/erodola/CG-s2-2019/raw/master/alien.zip)
 | | |
 Mer 20 Mar | Proximity | [slides] |
 | | |
