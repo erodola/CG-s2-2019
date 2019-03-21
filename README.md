@@ -51,7 +51,7 @@ Gio 14 Mar | **Industry Seminar: Matteo Sala** | | [TOSCA dataset](http://tosca.
 | | |
 Mer 20 Mar | Proximity | [slides](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/06-prox.pdf) | [ralph.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/ralph.png) ; [p5.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/p5.png) ; [p5_projected.png](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/p5_projected.png) ; [demo_adj.mlx](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/demo_adj.mlx) ; [demo_bwr.mlx](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/demo_bwr.mlx) ; [demo_pcl.mlx](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/demo_pcl.mlx) ; [demo_im_dist.mlx](https://github.com/erodola/CG-s2-2019/raw/master/06_prox/code/demo_im_dist.mlx)
 | | |
-Gio 21 Mar | Metric spaces | [slides](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/07-metric.pdf) |
+Gio 21 Mar | Metric spaces | [slides](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/07-metric.pdf) | [demo_lp.mlx](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/demo_lp.mlx) ; [demo_voronoi.mlx](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/demo_voronoi.mlx) ; [save_as_off.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/save_as_off.m) ; [load_ply.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/load_ply.m) ; [ply_read.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/ply_read.m)
 | | |
 Mer 27 Mar | | |
 | | |
