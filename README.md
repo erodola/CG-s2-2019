@@ -53,7 +53,7 @@ Mer 20 Mar | Proximity | [slides](https://github.com/erodola/CG-s2-2019/raw/mast
 | | |
 Gio 21 Mar | Metric spaces | [slides](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/07-metric.pdf) | [demo_lp.mlx](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/demo_lp.mlx) ; [demo_voronoi.mlx](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/demo_voronoi.mlx) ; [save_as_off.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/save_as_off.m) ; [load_ply.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/load_ply.m) ; [ply_read.m](https://github.com/erodola/CG-s2-2019/raw/master/07_metric/code/ply_read.m)
 | | |
-Mer 27 Mar | | |
+Mer 27 Mar | Shape modeling | [slides] |
 | | |
-Gio 28 Mar | | |
+Gio 28 Mar | Visualization II | [slides] |
 | | |
