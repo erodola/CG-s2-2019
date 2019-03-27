@@ -55,7 +55,7 @@ Gio 21 Mar | Metric spaces | [slides](https://github.com/erodola/CG-s2-2019/raw/
 | | |
 Mer 27 Mar | Local coordinates | [slides](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/08-coords.pdf) | [calc_adj_matrix.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_adj_matrix.m) ; [calc_mean_value_coords.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_mean_value_coords.m) ; [calc_onering.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_onering.m) ; [create_grid_topology.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/create_grid_topology.m) ; [interactive_ls.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/interactive_ls.m) ; [interactive_mean.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/interactive_mean.m) ; [test_ls_interactive.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/test_ls_interactive.m) ; [test_mean.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/test_mean.m)
 | | |
-Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/09-viz2.pdf) |
+Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/09_viz2.pdf) |
 | | |
 Mer 03 Apr | | |
 | | |
