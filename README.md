@@ -57,3 +57,7 @@ Mer 27 Mar | Local coordinates | [slides](https://github.com/erodola/CG-s2-2019/
 | | |
 Gio 28 Mar | Visualization II | [slides] |
 | | |
+Mer 03 Apr | | |
+| | |
+Gio 04 Apr | | |
+| | |
