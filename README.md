@@ -4,6 +4,8 @@ Materiale del corso
 
 ### News
 
+- **28/03/2019:** Nelle prossime lezioni useremo [POV-Ray](http://www.povray.org/download/) in aula, per favore installatelo in anticipo. Esistono versioni anche per Linux e Mac.
+
 - **14/03/2019:** La **prova in itinere** si terrà Giovedì 11 Aprile (orario e aula della lezione).
 
 ### Logistics
@@ -55,7 +57,7 @@ Gio 21 Mar | Metric spaces | [slides](https://github.com/erodola/CG-s2-2019/raw/
 | | |
 Mer 27 Mar | Local coordinates | [slides](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/08-coords.pdf) | [calc_adj_matrix.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_adj_matrix.m) ; [calc_mean_value_coords.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_mean_value_coords.m) ; [calc_onering.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/calc_onering.m) ; [create_grid_topology.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/create_grid_topology.m) ; [interactive_ls.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/interactive_ls.m) ; [interactive_mean.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/interactive_mean.m) ; [test_ls_interactive.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/test_ls_interactive.m) ; [test_mean.m](https://github.com/erodola/CG-s2-2019/raw/master/08_coords/code/test_mean.m)
 | | |
-Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/09_viz2.pdf) |
+Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/09_viz2.pdf) | [demo_colors.m](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_colors.m) ; [demo_lap_smoothing.m](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_lap_smoothing.m) ; [demo_fat_dog.mlx](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_fat_dog.mlx)
 | | |
 Mer 03 Apr | | |
 | | |
