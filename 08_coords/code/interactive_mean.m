@@ -43,13 +43,13 @@ function interactive_mean(V, F, neighs, is_bd)
           new_vert(selected_v,1) = (drag_pos(1,1) - down_pos(1,1)) + down_V(selected_v,1);
           new_vert(selected_v,2) = (drag_pos(1,2) - down_pos(1,2)) + down_V(selected_v,2);
           
-%           weights = calc_mean_value_coords(new_vert, neighs, is_bd);
-          
-          for i=1:length(neighs)
-              if is_bd(i)
-                  continue
+          for k=1:20
+              for i=1:length(neighs)
+                  if is_bd(i)
+                      continue
+                  end
+                  new_vert(i,1:2) = (new_vert(neighs{i},1:2)'*weights{i})';
               end
-              new_vert(i,1:2) = (new_vert(neighs{i},1:2)'*weights{i})';
           end
           
           set(tsh, 'Vertices', new_vert);
