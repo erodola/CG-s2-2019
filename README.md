@@ -61,7 +61,7 @@ Mer 27 Mar | Local coordinates | [slides](https://github.com/erodola/CG-s2-2019/
 | | |
 Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/09_viz2.pdf) | [demo_colors.m](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_colors.m) ; [demo_lap_smoothing.m](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_lap_smoothing.m) ; [demo_fat_dog.mlx](https://github.com/erodola/CG-s2-2019/raw/master/09_viz2/code/demo_fat_dog.mlx)
 | | |
-Mer 03 Apr | [Paper 1](http://www-evasion.inrialpes.fr/people/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) ; [Paper 2](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [Paper 3](https://graphics.stanford.edu/~smr/ICP/comparison/chen-medioni-align-rob91.pdf) | | [bunny.tar.gz](http://graphics.stanford.edu/pub/3Dscanrep/bunny.tar.gz)
+Mer 03 Apr | [Paper 1](http://www-evasion.inrialpes.fr/people/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) ; [Paper 2](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [Paper 3](https://graphics.stanford.edu/~smr/ICP/comparison/chen-medioni-align-rob91.pdf) | | [bunny.tar.gz](https://github.com/erodola/CG-s2-2019/raw/master/10_icp/code/bunny.zip)
 | | |
 Gio 04 Apr | | |
 | | |
