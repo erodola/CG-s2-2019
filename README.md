@@ -63,7 +63,7 @@ Gio 28 Mar | Visualization II | [slides](https://github.com/erodola/CG-s2-2019/r
 | | |
 Mer 03 Apr | **Paper Reading: ICP** | [paper 1](http://www-evasion.inrialpes.fr/people/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) ; [paper 2](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [paper 3](https://graphics.stanford.edu/~smr/ICP/comparison/chen-medioni-align-rob91.pdf) ; [paper 4](http://graphics.stanford.edu/~smr/ICP/comparison/horn-hilden-orientation-josa88.pdf) | [bunny.zip](https://github.com/erodola/CG-s2-2019/raw/master/10_icp/code/bunny.zip) ; [demo_icp.m](https://github.com/erodola/CG-s2-2019/raw/master/10_icp/code/demo_icp.m)
 | | |
-Gio 04 Apr | Raytracing | [slides](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/11-ray.pdf) | [POV-Ray](http://www.povray.org/download/)
+Gio 04 Apr | Raytracing | [slides](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/11-ray.pdf) | [POV-Ray](http://www.povray.org/download/) ; [save_mesh_povray.m](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/save_mesh_povray.m) ; [load_mesh.inc](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/load_mesh.inc)
 | | |
 Mer 10 Apr | | |
 | | |
