@@ -6,8 +6,6 @@ Materiale del corso
 
 - **02/04/2019:** Le lezioni di **Mer 17 Aprile e Gio 18 Aprile** sono **annullate**.
 
-- **28/03/2019:** Nella lezione di Gio 04 Aprile useremo [POV-Ray](http://www.povray.org/download/) in aula, per favore installatelo in anticipo. Esistono versioni anche per Linux e Mac.
-
 - **14/03/2019:** La **prova in itinere** si terrà Giovedì 11 Aprile (orario e aula della lezione).
 
 ### Logistics
