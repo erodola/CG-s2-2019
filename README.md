@@ -63,7 +63,7 @@ Mer 03 Apr | **Paper Reading: ICP** | [paper 1](http://www-evasion.inrialpes.fr/
 | | |
 Gio 04 Apr | Raytracing | [slides](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/11-ray.pdf) | [POV-Ray](http://www.povray.org/download/) ; [save_mesh_povray.m](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/save_mesh_povray.m) ; [load_mesh.inc](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/load_mesh.inc) ; [demo_povray.m](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/demo_povray.m) ; [render.pov](https://github.com/erodola/CG-s2-2019/raw/master/11_ray/code/render.pov)
 | | |
-Mer 10 Apr | | |
+Mer 10 Apr | Wrap-up and practice | |
 | | |
 Gio 11 Apr | **Prova in itinere** | |
 | | |
