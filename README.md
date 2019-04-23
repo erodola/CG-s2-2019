@@ -4,9 +4,9 @@ Materiale del corso
 
 ### News
 
-- **02/04/2019:** Le lezioni di **Mer 17 Aprile e Gio 18 Aprile** sono **annullate**.
+- **23/04/2019:** La lezione di Mer 24 Aprile sarà dedicata allo svolgimento in aula degli esercizi di esonero.
 
-- **14/03/2019:** La **prova in itinere** si terrà Giovedì 11 Aprile (orario e aula della lezione).
+- **23/04/2019:** Si ricorda che Gio 25 Aprile e Mer 01 Maggio non ci sarà lezione in quanto giorni di festa.
 
 ### Logistics
 
@@ -67,7 +67,7 @@ Mer 10 Apr | Wrap-up and practice | |
 | | |
 Gio 11 Apr | **Prova in itinere** | |
 | | |
-Mer 24 Apr | | |
+Mer 24 Apr | Esercizi di esame | |
 | | |
 Gio 02 Mag | | |
 | | |
