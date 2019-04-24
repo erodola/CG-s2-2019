@@ -30,7 +30,9 @@ Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unic
 
 ### Esame
 
-L'esame consiste in una prova in itinere e da una prova finale; entrambe le prove sono scritte. Ulteriori dettagli verranno definiti e comunicati durante il corso.
+L'esame consiste in una prova in itinere e da una prova finale; entrambe le prove sono scritte. 
+
+I risultati della prima prova scritta sono visionabili a [**questo link**](https://github.com/erodola/CG-s2-2019/raw/master/Esame_11_04_2019.pdf).
 
 ### Lezioni
 
