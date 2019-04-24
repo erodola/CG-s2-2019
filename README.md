@@ -4,8 +4,6 @@ Materiale del corso
 
 ### News
 
-- **23/04/2019:** La lezione di Mer 24 Aprile sarà dedicata allo svolgimento in aula degli esercizi di esonero.
-
 - **23/04/2019:** Si ricorda che Gio 25 Aprile e Mer 01 Maggio non ci sarà lezione in quanto giorni di festa.
 
 ### Logistics
