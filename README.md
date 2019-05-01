@@ -4,7 +4,7 @@ Materiale del corso
 
 ### News
 
-- **23/04/2019:** Si ricorda che Gio 25 Aprile e Mer 01 Maggio non ci sarà lezione in quanto giorni di festa.
+- **01/05/2019:** La seconda prova d'esame è prevista per Mar 18 Giugno (data e aula ancora non definitive).
 
 ### Logistics
 
@@ -69,5 +69,5 @@ Gio 11 Apr | **Prova in itinere** | |
 | | |
 Mer 24 Apr | Esercizi di esame | |
 | | |
-Gio 02 Mag | | |
+Gio 02 Mag | Shape retrieval | [slides] |
 | | |
