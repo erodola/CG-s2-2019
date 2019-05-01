@@ -69,7 +69,7 @@ Gio 11 Apr | **Prova in itinere** | |
 | | |
 Mer 24 Apr | Esercizi di esame | |
 | | |
-Gio 02 Mag | Shape retrieval I | [slides] |
+Gio 02 Mag | Shape retrieval I | [slides](https://github.com/erodola/CG-s2-2019/raw/master/12_retrieval/12-retrieval.pdf) |
 | | |
 Mer 08 Mag | Shape retrieval II | [slides] |
 | | |
