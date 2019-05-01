@@ -69,5 +69,7 @@ Gio 11 Apr | **Prova in itinere** | |
 | | |
 Mer 24 Apr | Esercizi di esame | |
 | | |
-Gio 02 Mag | Shape retrieval | [slides] |
+Gio 02 Mag | Shape retrieval I | [slides] |
+| | |
+Mer 08 Mag | Shape retrieval II | [slides] |
 | | |
