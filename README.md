@@ -73,3 +73,5 @@ Gio 02 Mag | Shape retrieval I | [slides](https://github.com/erodola/CG-s2-2019/
 | | |
 Mer 08 Mag | Shape retrieval II | [slides] |
 | | |
+Gio 09 Mag |  |  |
+| | |
