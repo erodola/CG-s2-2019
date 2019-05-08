@@ -73,5 +73,9 @@ Gio 02 Mag | Shape retrieval I | [slides](https://github.com/erodola/CG-s2-2019/
 | | |
 Mer 08 Mag | Shape retrieval II | [slides](https://github.com/erodola/CG-s2-2019/raw/master/13_retrieval2/13-retrieval2.pdf) | [test_dna.m](https://github.com/erodola/CG-s2-2019/raw/master/13_retrieval2/code/test_dna.m)
 | | |
-Gio 09 Mag | Shape matching | [slides] |
+Gio 09 Mag | Shape matching | [slides](https://github.com/erodola/CG-s2-2019/raw/master/14_corr/14-corr.pdf) |
+| | |
+Mer 15 Mag |  |  |
+| | |
+Gio 16 Mag |  |  |
 | | |
