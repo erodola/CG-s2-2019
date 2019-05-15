@@ -75,7 +75,7 @@ Mer 08 Mag | Shape retrieval II | [slides](https://github.com/erodola/CG-s2-2019
 | | |
 Gio 09 Mag | Shape matching | [slides](https://github.com/erodola/CG-s2-2019/raw/master/14_corr/14-corr.pdf) |
 | | |
-Mer 15 Mag | Shape matching |  |
+Mer 15 Mag | Shape matching |  | [test_C.m](https://github.com/erodola/CG-s2-2019/raw/master/14_corr/code/test_C.m)
 | | |
-Gio 16 Mag |  |  |
+Gio 16 Mag | **Academic Seminar: Zorah Lähner** |  |
 | | |
