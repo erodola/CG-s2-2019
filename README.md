@@ -77,7 +77,7 @@ Gio 09 Mag | Shape matching | [slides](https://github.com/erodola/CG-s2-2019/raw
 | | |
 Mer 15 Mag | Shape matching |  | [test_C.m](https://github.com/erodola/CG-s2-2019/raw/master/14_corr/code/test_C.m)
 | | |
-Gio 16 Mag | **Academic Seminar: Zorah Lähner** | [slides](https://github.com/erodola/CG-s2-2019/raw/master/talk_laehner.pdf) |
+Gio 16 Mag | **Academic Seminar: Zorah Lähner** | [slides](https://github.com/erodola/CG-s2-2019/raw/master/talk_laehner.pdf) ; [paper](https://arxiv.org/pdf/1806.10417.pdf) |
 | | |
 Mer 22 Mag | |  |
 | | |
