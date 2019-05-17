@@ -4,7 +4,7 @@ Materiale del corso
 
 ### News
 
-- **15/05/2019:** La seconda prova d'esame è prevista per **Mar 18 Giugno, in Aula P1, orario 14:00-17:00**. Oltre che su infostud (che verrà aperto a breve), bisogna prenotarsi inviando un'email a "comito chiocciola di.uniroma1.it", specificando "[cg]" nell'oggetto, e specificando se si vuole sostenere solo la **seconda parte** oppure **l'esame completo**.
+- **17/05/2019:** La seconda prova d'esame è prevista per **Mar 18 Giugno, in Aula P1, orario 14:00-17:00**. In aggiunta ad Infostud, bisogna prenotarsi inviando un'email a "comito chiocciola di.uniroma1.it", specificando "[cg]" nell'oggetto, e specificando se si vuole sostenere solo la **seconda parte** oppure **l'esame completo**.
 
 ### Logistics
 
