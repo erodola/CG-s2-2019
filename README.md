@@ -4,6 +4,8 @@ Materiale del corso
 
 ### News
 
+- **17/05/2019:** La lezione di **Gio 23 Maggio è annullata**.
+
 - **17/05/2019:** La seconda prova d'esame è prevista per **Mar 18 Giugno, in Aula P1, orario 14:00-17:00**. In aggiunta ad Infostud, bisogna prenotarsi inviando un'email a "comito chiocciola di.uniroma1.it", specificando "[cg]" nell'oggetto, e specificando se si vuole sostenere solo la **seconda parte** oppure **l'esame completo**.
 
 ### Logistics
@@ -79,7 +81,10 @@ Mer 15 Mag | Shape matching |  | [test_C.m](https://github.com/erodola/CG-s2-201
 | | |
 Gio 16 Mag | **Academic Seminar: Zorah Lähner** | [slides](https://github.com/erodola/CG-s2-2019/raw/master/talk_laehner.pdf) ; [paper](https://arxiv.org/pdf/1806.10417.pdf) |
 | | |
-Mer 22 Mag | |  |
+Mer 22 Mag |  |  |
 | | |
-Gio 23 Mag |  |  |
+Mer 29 Mag |  |  |
 | | |
+Gio 30 Mag |  |  |
+| | |
+| **Fine del corso** | |
