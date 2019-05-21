@@ -81,7 +81,7 @@ Mer 15 Mag | Shape matching |  | [test_C.m](https://github.com/erodola/CG-s2-201
 | | |
 Gio 16 Mag | **Academic Seminar: Zorah Lähner** | [slides](https://github.com/erodola/CG-s2-2019/raw/master/talk_laehner.pdf) ; [paper](https://arxiv.org/pdf/1806.10417.pdf) |
 | | |
-Mer 22 Mag |  |  |
+Mer 22 Mag | Journal club & spotlights |  |
 | | |
 Mer 29 Mag |  |  |
 | | |
