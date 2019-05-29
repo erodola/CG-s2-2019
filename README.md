@@ -83,6 +83,6 @@ Mer 22 Mag | Journal club & spotlights | [paper 1](https://www.cs.cmu.edu/~kmcra
 | | |
 Mer 29 Mag | Current & future trends in graphics |  |
 | | |
-Gio 30 Mag |  |  |
+Gio 30 Mag | Wrap-up and practice | [slides] |
 | | |
 | **Fine del corso** | |
