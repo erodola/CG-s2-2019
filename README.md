@@ -81,7 +81,7 @@ Gio 16 Mag | **Academic Seminar: Zorah Lähner** | [slides](https://github.com/e
 | | |
 Mer 22 Mag | Journal club & spotlights | [paper 1](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) ; [paper 2](http://www.lix.polytechnique.fr/~maks/papers/obsbg_fmaps.pdf) ; [paper 3](https://github.com/erodola/CG-s2-2019/raw/master/GFrames.pdf) ; [paper 4](https://gfx.cs.princeton.edu/pubs/Gerstner_2012_PIA/index.php) |
 | | |
-Mer 29 Mag |  |  |
+Mer 29 Mag | Current & future trends in graphics |  |
 | | |
 Gio 30 Mag |  |  |
 | | |
