@@ -4,6 +4,8 @@ Materiale del corso
 
 ### News
 
+- **25/06/2019:** Sono **pubblicati gli esiti** dell'appello del 18/06/2019. I voti pubblicati tengono conto di: 1) il voto della prima parte (solo per chi ha sostenuto la seconda parte); 2) gli homework consegnati. E' possibile migliorare (o peggiorare) il voto sostenendo un esame orale con il docente, che va contattato personalmente.
+
 - **23/06/2019:** La seconda prova finale si terrà **Ven 12 Luglio, in Aula P1, orario 09:00-12:00**. Attenzione: Chi non ha superato l'esame di Mar 18 Giugno **può solo sostenere la prova completa**. In ogni caso, in aggiunta ad Infostud, bisogna prenotarsi inviando un'email a "comito chiocciola di.uniroma1.it", specificando "[cg]" nell'oggetto, e specificando se si sosterrà solo la seconda parte oppure l'esame completo.
 
 ### Logistics
@@ -33,6 +35,8 @@ Data la natura eterogenea del corso, non è previsto l'utilizzo di un testo unic
 L'esame consiste in una prova in itinere e da una prova finale; entrambe le prove sono scritte. 
 
 I risultati della prima prova scritta sono visionabili a [**questo link**](https://github.com/erodola/CG-s2-2019/raw/master/Esame_11_04_2019.pdf).
+
+I risultati finali (appello del 18/06/2019) sono visionabili a [**questo link**](https://github.com/erodola/CG-s2-2019/raw/master/Esame_18_06_2019.pdf).
 
 ### Lezioni
 
