@@ -4,7 +4,7 @@ Materiale del corso
 
 ### News
 
-- **16/07/2019:** Sono **pubblicati gli esiti** dell'appello del 12/07/2019. I voti pubblicati tengono conto degli homework consegnati. E' possibile migliorare (o peggiorare) il voto sostenendo un esame orale con il docente, che va contattato personalmente.
+- **16/07/2019:** Sono **pubblicati gli esiti** dell'appello del 12/07/2019. I voti pubblicati tengono conto degli homework consegnati. E' possibile migliorare (o peggiorare) il voto sostenendo un esame orale con il docente. Si prega di contattare il docente in ogni caso per **accettare o rifiutare il voto**.
 
 ### Logistics
 
